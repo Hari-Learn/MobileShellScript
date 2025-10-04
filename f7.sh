@@ -1,3 +1,4 @@
+
 listAllArguments(){
 echo " Listing out all aruguments"
 echo " total number of items in list : $#"
